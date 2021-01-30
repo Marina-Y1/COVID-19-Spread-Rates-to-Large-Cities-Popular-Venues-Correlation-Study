@@ -5,7 +5,7 @@ IBM Capstone Study on the possible impact top venues in a city have on COVID-19
 
 COVID-19 Spread Rates to Large Cities Popular Venues Correlation Study
 
-Summary
+# Summary
 
 Much has been documented about preventative measures to help individuals from catching the COVID-19 Virus, those range from hand washing, staying 6 feet apart, avoiding crowded places, isolating yourself, and wearing a mask. 
 
@@ -18,14 +18,14 @@ This study aims to not only analyze the relationship that population and average
 As you will see throughout the study, the type of the business can lead to a larger impact on the number of cases reported.
 
 
-Interest:
+## Interest:
 
 This study is not trying to establish health recommendations; rather to provide a different perspective to individuals in our local and federal government involved in policy writing with respect to COVID-19. Additionally, it provides a different way of thinking about the problem to average citizens and researchers.
 
 
-The Data:
+# The Data:
 
-Acquisition:
+## Acquisition:
 
 For this analysis, the data was acquired as follows:
 COVID-19 cases: Data was selected based on top 10 states affected by Coronavirus. With the CDC Covid Data Tracker, I was able to find links to each state’s Coronavirus website. The data was at county level.
