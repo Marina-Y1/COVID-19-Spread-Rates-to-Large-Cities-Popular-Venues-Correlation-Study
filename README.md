@@ -28,8 +28,12 @@ This study is not trying to establish health recommendations; rather to provide 
 ## Acquisition:
 
 For this analysis, the data was acquired as follows:
-COVID-19 cases: Data was selected based on top 10 states affected by Coronavirus. With the CDC Covid Data Tracker, I was able to find links to each state’s Coronavirus website. The data was at county level.
-County and City information: To find information about each county, I used Census Gazetteer Files. From there I was able to retrieve counties gazetter national files which had cities and counties as well as unique identifiers as FIPS and GEOID. I was able to also get places gazetteer files which provided me with cities latitude and longitude for geographic mapping.
-County and City Demographics: Demographics information, such as Population, Persons per Household, Density, and Median Income were collected from the census quickfacts page.
-Foursquare API was used to obtain the top 5 most common venues per city. 
+
+**COVID-19 cases:** Data was selected based on top 10 states affected by Coronavirus. With the CDC Covid Data Tracker, I was able to find links to each state’s Coronavirus website. The data was at county level.
+
+**County and City information:** To find information about each county, I used Census Gazetteer Files. From there I was able to retrieve counties gazetter national files which had cities and counties as well as unique identifiers as FIPS and GEOID. I was able to also get places gazetteer files which provided me with cities latitude and longitude for geographic mapping.
+
+**County and City Demographics:** Demographics information, such as Population, Persons per Household, Density, and Median Income were collected from the census quickfacts page.
+
+**Foursquare API** was used to obtain the top 5 most common venues per city. 
 
